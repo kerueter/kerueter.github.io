@@ -1,0 +1,38 @@
+baseURL = 'https://kerueter.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio Kevin Rüter'
+theme = 'hugo-coder'
+
+[params]
+  author = "Kevin Rüter"
+  info = "Full-Stack Developer"
+  description = "Kevin Rüter's portfolio"
+  keywords = "developer,personal,portfolio,cv"
+  avatarurl = "assets/images/avatar.jpg"
+  gravatar = "kevin@rueter.email"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/kerueter/"
+[[params.social]]
+  name = "Xing"
+  icon = "fa fa-xing fa-2x"
+  weight = 2
+  url = "https://www.xing.com/profile/Kevin_Rueter4/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/kevin-r%C3%BCter-3b4419130/"
