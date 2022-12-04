@@ -9,7 +9,6 @@ theme = 'hugo-coder'
   description = "Kevin Rüter's portfolio"
   keywords = "developer,personal,portfolio,cv"
   avatarurl = "assets/images/avatar.jpg"
-  gravatar = "kevin@rueter.email"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
