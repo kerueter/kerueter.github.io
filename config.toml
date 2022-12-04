@@ -8,10 +8,10 @@ theme = 'hugo-coder'
   info = "Full-Stack Developer"
   description = "Kevin Rüter's portfolio"
   keywords = "developer,personal,portfolio,cv"
-  avatarurl = "/assets/images/avatar.jpg"
+  avatarurl = "/images/avatar.jpg"
 
-  favicon_32 = "/assets/images/favicon-32x32.png"
-  favicon_16 = "/assets/images/favicon-16x16.png"
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
 
   since = 2022
 
