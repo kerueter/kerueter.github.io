@@ -1,4 +1,4 @@
-baseURL = 'https://kerueter.github.io/'
+baseURL = 'https://kerueter.github.io'
 languageCode = 'en-us'
 title = 'Portfolio Kevin Rüter'
 theme = 'hugo-coder'
